@@ -1,5 +1,5 @@
 # 💫 About Me:
-🟥 I'm currently working on a job tracker project called BADGER!<br>🟧 I've studied Software Engineering!<br>🟨 I'm a LeetCoder! <br>🟩 I'm learning, learning & learning every single day!<br>🟦 I know JS, React, Redux, Next and many new trend technologies!<br>🟪 Reach me through email: mailto:shiringohariii@gmail.com<br>
+🟥 I'm currently working on a job tracker project called BADGER!<br>🟧 I've studied Software Engineering!<br>🟨 I'm a LeetCoder! <br>🟩 I'm learning, learning & learning every single day!<br>🟦 I know JS, React, Redux, Next and many new trend technologies!<br>🟪 Reach me through email: shiringohariii@gmail.com<br>
 
 
 # 💻 Tech Stack:
