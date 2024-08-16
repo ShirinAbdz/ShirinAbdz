@@ -1,5 +1,3 @@
-# 👩🏻‍💻 About Me:
-
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently working on a job tracker project called BADGER!
