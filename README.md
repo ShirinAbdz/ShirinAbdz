@@ -9,65 +9,52 @@
 
 # 💻 Tech Stack:
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
+
+<div>
+<div><img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
         alt="HTML"
       />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
+      <br /><strong>HTML5</strong></div>
+
+      <div align="center" height="108" width="108"><img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
         height="48"
         alt="CSS3"
       />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
+      <br /><strong>CSS3</strong></div>
+      <div align="center" height="108" width="108"><img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
         alt="JavaScript"
       />
-      <br /><strong>JavaScript</strong>
-      </td>
-       <td align="center" height="108" width="108">
-      <img
+      <br /><strong>JavaScript</strong></div>
+      <divalign="center" height="108" width="108"> <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
         width="48"
         height="48"
         alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-      </td>
-    <td align="center" height="108" width="108">
-      <img
+      />  <br /><strong>TypeScript</strong></div>
+      <div align="center" height="108" width="108">   <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
         alt="React"
       />
-      <br /><strong>React.js</strong>
-      </td> 
-    <td align="center" height="108" width="108">
-      <img
+<br /><strong>React.js</strong></div>
+      <div align="center" height="108" width="108"> <img
         src="https://avatars.githubusercontent.com/u/67109815"
         width="68"
         height="68"
         alt="TailwindCSS"
       />
-      <br /><strong>TailwindCSS</strong>
-  </td> 
-  </tr>
-</table>
-
+        <br /><strong>TailwindCSS</strong></div>
+   
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=ShirinAbdz&icon=1&color=6)](https://visitcount.itsvg.in)
 
