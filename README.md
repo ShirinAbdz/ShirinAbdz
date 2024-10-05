@@ -1,8 +1,6 @@
 # Hey there
 
 
-**Talking about Personal Stuffs:**
-
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently working on a my personal projects.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp;  I've studied <b>Software Engineering</b> at university!
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; I'm a problem solver and you can find me on LeetCode!
@@ -10,8 +8,6 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Reach me through email: shiringohariii@gmail.com
 
 # 💻 Tech Stack:
-
-# Front End Technologies
 
 <table>
   <tr>
@@ -72,30 +68,6 @@
   </tr>
 </table>
 
-
-# 🔧 Others
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br /><strong>Npm</strong>
-    </td>
-  </tr>
-</table>
 
 [![](https://visitcount.itsvg.in/api?id=ShirinAbdz&icon=1&color=6)](https://visitcount.itsvg.in)
 
