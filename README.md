@@ -1,9 +1,8 @@
 # Hey there
 
 
-- I'm currently working at [HappyLand shop](https://shop-happyland.com).
+- I'm currently working at **[HappyLand shop](https://shop-happyland.com)**.
 - I've studied <b>Software Engineering</b> at university.
-- Reach me through email: shiringohariii@gmail.com
 
 
 ## Connect with me
