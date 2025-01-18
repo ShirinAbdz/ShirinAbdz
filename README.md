@@ -6,7 +6,7 @@
 
 
 ## Connect with me
-[![icons8-linkedin-48](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)]([https://www.linkedin.com/in/hmdkhsrvee](https://www.linkedin.com/in/shirin-abdollahzadeh-65b689199/))
+[![icons8-linkedin-48](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](([https://www.linkedin.com/in/shirin-abdollahzadeh-65b689199/]))
 [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:hmdkhsrvee@gmail.com)
 [![icons8-stackoverflow-48](https://user-images.githubusercontent.com/74541595/208392168-91b0449f-d986-4799-9745-5bffba469a26.png)](https://stackoverflow.com/users/20813604/hamed-khosravi)
 
