@@ -1,9 +1,9 @@
 # Hey there
 
 
-✦ I'm currently working at HappyLand shop.
-✦ I've studied <b>Software Engineering</b> at university.
-✦ Reach me through email: shiringohariii@gmail.com
+- I'm currently working at HappyLand shop.
+- I've studied <b>Software Engineering</b> at university.
+- Reach me through email: shiringohariii@gmail.com
 
 
 ## Connect with me
