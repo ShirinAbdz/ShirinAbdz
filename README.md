@@ -126,3 +126,26 @@
 </picture>
 
 ### -->
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ShirinAbdz/ShirinAbdz/gh-pages/snake.svg" alt="Snake animation" />
+
+
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py" />
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ShirinAbdz/ShirinAbdz/gh-pages/snake.svg" alt="Snake animation" />
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShirinAbdz&show_icons=true&theme=radical" />
+</div>
