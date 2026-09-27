@@ -1,4 +1,25 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py" height="50" alt="skills" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ShirinAbdz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShirinAbdz&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirinAbdz&layout=compact&theme=dracula" height="150" />
+</div>
+
+<!-- <h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -104,4 +125,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShirinAbdz/ShirinAbdz/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+### -->
