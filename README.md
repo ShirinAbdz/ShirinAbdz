@@ -19,11 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirinAbdz&layout=compact&theme=dracula" height="150" alt="Top languages" />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShirinAbdz/ShirinAbdz/gh-pages/snake.svg" alt="Snake animation" />
-
-<br>
 
 
 
