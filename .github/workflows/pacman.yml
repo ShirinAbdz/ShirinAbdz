@@ -5,19 +5,17 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
       - name: Generate Pac-Man
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ShirinAbdz
+        uses: gregkozakiewicz/pacman-contribution-graph@main
 
       - name: Push Pac-Man
         uses: crazy-max/ghaction-github-pages@v4
