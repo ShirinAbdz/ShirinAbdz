@@ -33,7 +33,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Frontend Developer From Iran.<br><br>- 🔭 I’m currently working on my persoanl project.<br>- 📚 I'm trying to learn backend to become a fullstack developer someday :) <br>- ⚡ In my free time I paint Mandalas and play Minecarft. 🌳</p>
+<p data-importer="text" align="left">I'm a Frontend Developer From Iran.<br><br> 🔭 I’m currently working on my persoanl project.<br> 📚 I'm trying to learn backend to become a fullstack developer someday :) <br> ⚡ In my free time I paint Mandalas and play Minecarft. 🌳</p>
 
 ###
 
