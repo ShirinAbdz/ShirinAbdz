@@ -23,9 +23,9 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
+<!-- <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:ShirinAbdz?theme=gelbooru&padding=5&scale=0.7&align=center&pixelated=0&darkmode=1"  />
-</div>
+</div> -->
 
 ###
 
