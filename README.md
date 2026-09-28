@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 data-importer="text" align="center">Hey there! I'm Shirin! 👋</h1>
+<h1 data-importer="text" align="left">Hey there! I'm Shirin! 👋</h1>
 
 ###
 
