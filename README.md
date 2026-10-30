@@ -111,7 +111,7 @@
 
 ###
 
-![snake gif](https://github.com/ShirinAbdz/ShirinAbdz/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ShirinAbdz/ShirinAbdz/blob/output/github-snake.svg)
 
 
 
